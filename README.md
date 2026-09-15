@@ -113,6 +113,8 @@ Analyze
 Action
  ↓
 Verify
+
+
 👨‍💻 SUHASH — MCP / DATA / PREDICTION ENGINEER
 Owns: Data and connection layer
 person-2/
