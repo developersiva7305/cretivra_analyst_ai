@@ -218,3 +218,7 @@ Integrations
                   │
                   ▼
        PostgreSQL / CRM / APIs
+
+
+Planning chat link: https://chatgpt.com/share/6aa927cc-ed00-83ee-a56a-63d2c63038e8
+  
